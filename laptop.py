@@ -14,7 +14,6 @@
 
 from  bs4 import BeautifulSoup
 import requests
-import csv
 import pandas as pd
 URL = 'https://www.flipkart.com/search?q=laptop&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&page=1'
 
